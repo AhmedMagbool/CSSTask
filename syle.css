@@ -1,26 +1,12 @@
-h1 {
+
+.tuwaiq{
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+#tuwaiq2 {
     text-align: center;
-
-    color: blue
-  }
-  
-  
-  p {
-    text-align: center;
-  }
-  
-  a {
- 
-    color: red
-  }
-  
-  a:hover {
-    color: yellow
-
-  }
-  
-  h3 {
-    
-    color: black
-
-  }
+}
+.TuwaiqAcademy {
+    color:     #a7415c;
+    font-family: 'Courier New', Courier, monospace;
+}
